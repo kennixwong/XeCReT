@@ -1,4 +1,6 @@
-## My xEcrEt Files for My xEcrEt Project Zone
+## My xEcrEt Codes for My xEcrEt Project Zone
+
+`xEcrEt Code`
 
 You can use the [editor on GitHub](https://github.com/kennixwong/xecret/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
