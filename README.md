@@ -1,6 +1,6 @@
-## My xEcrEt Codes for My xEcrEt Project Zone
+## My XeCReT Codes for My XeCReT Project Zone
 
-`xEcrEt Code`
+`XeCRet Code`
 
 If you know me, sure that you will know how to retrieve the xecret code here.
 
